@@ -1,0 +1,66 @@
+[WORLD: FORTRESS]
+INFO
+[PLAYER: YEAR OF THE X AGE]
+  [MONTH]
+    [DATE] Happening
+
+[==========]
+
+[Ilussil, The Everseeing Planes: Datanoshur, Ironcircle]
+Civilization: Shashdondakost, The Maroon Floor
+Embark Group: Limulcatten, The Golden Channel
+Volcano: Ubenzefon, The Soapy Fountain
+Brook: Sosad Nothis, The Ivory Affliction
+
+[SIMAS: YEAR 250 OF THE AGE OF MYTH]
+  [Granite]
+    [15] Strike the Earth! Uma camelo veio como wagon-puller, para minha alegria. Os malditos custam *251* pontos de embark!
+    [17] As escavações começaram. Removi rampas de subida de uma entrância na montanha e derrubei as árvores para formar uma clareira artificial.
+    [18] 6 ravens spotted.
+    [22] Remoção de rampas concluída, construído Trade Depot externo à fortaleza.
+  [Slate]
+    [02] As escavações encontraram um aquífero logo abaixo de onde seriam as escadarias principais. O próximo jogador deverá decidir contorná-lo, ou então projetar um dreno. Até onde sei, no coração da montanha não há aquífero.
+    [06] As peruas e as pavoas puseram ovos. Foram marcados como forbidden para que sejam chocados e dêem cria.
+    [21] Criados terrenos para plantio de cultivos.
+  [Felsite]
+    [07] Primeira chuva do ano, não contando a que nos recebeu em nossa chegada. Criados workshops de maçonaria e carpentaria, alambiques para produção de alcoólicos e um silo para armazenamento de grãos e sementes.
+  [Hematite]
+    [01] It is now summer. One eagle and three rabbits spotted.
+  [Malachite]
+    [03] Rith Gósmeroddon, Expedition Leader, foi escolhido como manager, broker e bookkeeper. One peregrine falcon, one great horned owl and one kakapo spotted. Dwarves afraid of magma crab histories.
+    [07] Blue peachicks have hatched. Um total de sete.
+    [14] 10 keas spotted. Eu ODEIO essas criaturas.
+    [25] Demarcados limites para escavação do Grand Dining Hall, a ser completamente concluído nos anos por vir.
+  [Galena]
+    [03] Dois imigrantes chegaram à Datanoshur. Dois.
+    [11] Ordenada a construção de móveis para quartos para todos os anões. Planejada e ordenada a construção de um setor de produtos de origem animal.
+    [13] One opossum spotted.
+  [Limestone]
+    [01] Autumn has come. Uma caravana é esperada. Grand Dining Hall escavado, áreas de terra sendo substituídas por pedra.
+    [09] 4 one humped camels spotted. No pé da montanha, provavelmente vieram das badlands à leste. Gostaria bastante se alguém colocasse umas traps por lá para capturar alguns espécimes.
+    [11] The outpost liasion Kib Alathlelum from Shashdondakost arrived with a caravan.
+    [20] A caravana foi embora, deixando todos seus pertences para trás. Que gentil da parte deles...
+    [21] Keas roubaram frutas de nosso estoque.
+  [Sandstone]
+    [04] Keas continuam a roubar itens. É guerra.
+    [24] Onze imigrantes chegaram, sendo dois deles crianças.
+  [Timber]
+    [17] O chão de terra do Grand Dining Hall foi trocado por pedra.
+    [20] Ducim Ralkel, Dwarven Child withdraws from society...
+    [25] Ducim Ralkel has begun a mysterious construction!
+  [Moonstone]
+    [01] Ducim Ralkel, Dwarven Child has created Ódad Litast, a peach wood itnet!
+    [20] Os demais ovos postos não eclodiram, por alguma razão. Liberados para o consumo. Espero maior sorte na próxima tentativa.
+  [Opal]
+    [01] 4 mountain goats and one kiwi bird spotted.
+  [Obsidian]
+    [13] One kestrel and one wolverine spotted.
+    [24] Bëmbul Monangalath, Leatherworker is taken by a fey mood!
+
+[SIMAS: YEAR 251 OF THE AGE OF MYTH]
+  [Granite]
+    [01] Spring has arrived! Bëmbul Monangalath has begun a mysterious construction!
+    [03] Snatcher! Protect the children!
+    [05] O goblin foi morto pelos cães de guerra.
+    [06] Bëmbul Monangalath, Leatherworker has created Idenegar, a giant kakapo leather shoe!
+    [15] An elven caravan from Namicealu has arrived. Por Armok, tende piedade dos elfos. Quero seus animais exóticos.s
