@@ -15,52 +15,98 @@ Brook: Sosad Nothis, The Ivory Affliction
 [SIMAS: YEAR 250 OF THE AGE OF MYTH]
   [Granite]
     [15] Strike the Earth! Uma camelo veio como wagon-puller, para minha alegria. Os malditos custam *251* pontos de embark!
-    [17] As escavaÁıes comeÁaram. Removi rampas de subida de uma entr‚ncia na montanha e derrubei as ·rvores para formar uma clareira artificial.
+    [17] As escava√ß√µes come√ßaram. Removi rampas de subida de uma entr√¢ncia na montanha e derrubei as √°rvores para formar uma clareira artificial.
     [18] 6 ravens spotted.
-    [22] RemoÁ„o de rampas concluÌda, construÌdo Trade Depot externo ‡ fortaleza.
+    [22] Remo√ß√£o de rampas conclu√≠da, constru√≠do Trade Depot externo √† fortaleza.
   [Slate]
-    [02] As escavaÁıes encontraram um aquÌfero logo abaixo de onde seriam as escadarias principais. O prÛximo jogador dever· decidir contorn·-lo, ou ent„o projetar um dreno. AtÈ onde sei, no coraÁ„o da montanha n„o h· aquÌfero.
-    [06] As peruas e as pavoas puseram ovos. Foram marcados como forbidden para que sejam chocados e dÍem cria.
+    [02] As escava√ß√µes encontraram um aqu√≠fero logo abaixo de onde seriam as escadarias principais. O pr√≥ximo jogador dever√° decidir contorn√°-lo, ou ent√£o projetar um dreno. At√© onde sei, no cora√ß√£o da montanha n√£o h√° aqu√≠fero.
+    [06] As peruas e as pavoas puseram ovos. Foram marcados como forbidden para que sejam chocados e d√™em cria.
     [21] Criados terrenos para plantio de cultivos.
   [Felsite]
-    [07] Primeira chuva do ano, n„o contando a que nos recebeu em nossa chegada. Criados workshops de maÁonaria e carpentaria, alambiques para produÁ„o de alcoÛlicos e um silo para armazenamento de gr„os e sementes.
+    [07] Primeira chuva do ano, n√£o contando a que nos recebeu em nossa chegada. Criados workshops de ma√ßonaria e carpentaria, alambiques para produ√ß√£o de alco√≥licos e um silo para armazenamento de gr√£os e sementes.
   [Hematite]
     [01] It is now summer. One eagle and three rabbits spotted.
   [Malachite]
-    [03] Rith GÛsmeroddon, Expedition Leader, foi escolhido como manager, broker e bookkeeper. One peregrine falcon, one great horned owl and one kakapo spotted. Dwarves afraid of magma crab histories.
+    [03] Rith G√≥smeroddon, Expedition Leader, foi escolhido como manager, broker e bookkeeper. One peregrine falcon, one great horned owl and one kakapo spotted. Dwarves afraid of magma crab histories.
     [07] Blue peachicks have hatched. Um total de sete.
     [14] 10 keas spotted. Eu ODEIO essas criaturas.
-    [25] Demarcados limites para escavaÁ„o do Grand Dining Hall, a ser completamente concluÌdo nos anos por vir.
+    [25] Demarcados limites para escava√ß√£o do Grand Dining Hall, a ser completamente conclu√≠do nos anos por vir.
   [Galena]
-    [03] Dois imigrantes chegaram ‡ Datanoshur. Dois.
-    [11] Ordenada a construÁ„o de mÛveis para quartos para todos os anıes. Planejada e ordenada a construÁ„o de um setor de produtos de origem animal.
+    [03] Dois imigrantes chegaram √† Datanoshur. Dois.
+    [11] Ordenada a constru√ß√£o de m√≥veis para quartos para todos os an√µes. Planejada e ordenada a constru√ß√£o de um setor de produtos de origem animal.
     [13] One opossum spotted.
   [Limestone]
-    [01] Autumn has come. Uma caravana È esperada. Grand Dining Hall escavado, ·reas de terra sendo substituÌdas por pedra.
-    [09] 4 one humped camels spotted. No pÈ da montanha, provavelmente vieram das badlands ‡ leste. Gostaria bastante se alguÈm colocasse umas traps por l· para capturar alguns espÈcimes.
+    [01] Autumn has come. Uma caravana √© esperada. Grand Dining Hall escavado, √°reas de terra sendo substitu√≠das por pedra.
+    [09] 4 one humped camels spotted. No p√© da montanha, provavelmente vieram das badlands √† leste. Gostaria bastante se algu√©m colocasse umas traps por l√° para capturar alguns esp√©cimes.
     [11] The outpost liasion Kib Alathlelum from Shashdondakost arrived with a caravan.
-    [20] A caravana foi embora, deixando todos seus pertences para tr·s. Que gentil da parte deles...
+    [20] A caravana foi embora, deixando todos seus pertences para tr√°s. Que gentil da parte deles...
     [21] Keas roubaram frutas de nosso estoque.
   [Sandstone]
-    [04] Keas continuam a roubar itens. … guerra.
-    [24] Onze imigrantes chegaram, sendo dois deles crianÁas.
+    [04] Keas continuam a roubar itens. √â guerra.
+    [24] Onze imigrantes chegaram, sendo dois deles crian√ßas.
   [Timber]
-    [17] O ch„o de terra do Grand Dining Hall foi trocado por pedra.
+    [17] O ch√£o de terra do Grand Dining Hall foi trocado por pedra.
     [20] Ducim Ralkel, Dwarven Child withdraws from society...
     [25] Ducim Ralkel has begun a mysterious construction!
   [Moonstone]
-    [01] Ducim Ralkel, Dwarven Child has created ”dad Litast, a peach wood itnet!
-    [20] Os demais ovos postos n„o eclodiram, por alguma raz„o. Liberados para o consumo. Espero maior sorte na prÛxima tentativa.
+    [01] Ducim Ralkel, Dwarven Child has created √ìdad Litast, a peach wood itnet!
+    [20] Os demais ovos postos n√£o eclodiram, por alguma raz√£o. Liberados para o consumo. Espero maior sorte na pr√≥xima tentativa.
   [Opal]
     [01] 4 mountain goats and one kiwi bird spotted.
   [Obsidian]
     [13] One kestrel and one wolverine spotted.
-    [24] BÎmbul Monangalath, Leatherworker is taken by a fey mood!
+    [24] B√´mbul Monangalath, Leatherworker is taken by a fey mood!
 
 [SIMAS: YEAR 251 OF THE AGE OF MYTH]
   [Granite]
-    [01] Spring has arrived! BÎmbul Monangalath has begun a mysterious construction!
+    [01] Spring has arrived! B√´mbul Monangalath has begun a mysterious construction!
     [03] Snatcher! Protect the children!
-    [05] O goblin foi morto pelos c„es de guerra.
-    [06] BÎmbul Monangalath, Leatherworker has created Idenegar, a giant kakapo leather shoe!
-    [15] An elven caravan from Namicealu has arrived. Por Armok, tende piedade dos elfos. Quero seus animais exÛticos.s
+    [05] O goblin foi morto pelos c√£es de guerra.
+    [06] B√´mbul Monangalath, Leatherworker has created Idenegar, a giant kakapo leather shoe!
+		[15] An elven caravan from Namicealu has arrived. Por Armok, tende piedade dos elfos. Quero seus animais ex√≥ticos.s
+
+[RABELO: YEAR 251 OF THE AGE OF MYTH]
+	[Granite]
+		[26] The merchants from Namicealu have embarked on their journey. N√£o foi poss√≠vel negociar com elfos, eles ficaram ofendidos pela nossa oferta de vinho em troca de um peregrine. Um excelente vinho em um barril de persimmon wood... I hate elfs.
+	[Slate]
+		[2] As escava√ß√µes no andar da entrada para um poss√≠vel pasture indoor foram desperdi√ßadas, grande perte do ch√£o era de diorite, acho que terei q cavar no andar d√° meeting area...
+		[14] Delimitas as √°reas de escava√ß√£o para o pasture indoor e a adega da meeting area que no futuro ser√° uma taverna (assim espero)
+		[27] Aqu√≠fero contornado. Ele parece ocupar dois andares. A escada principal foi encurtada para menos fileiras nos andares afetados.
+	[Felsite]
+		[2] Some migrants have arrived. A fortress agora tem 49 an√µes
+	[Malachite]
+		[4] Let's have some fun! Ser√° poss√≠vel usar a lava para os workshops que precisam de fogo, sem destruir a fortress?
+		[6] Come√ßam as escava√ß√µes para as magma pools, que Armok guie nossas picaretas!
+		[14] Some migrants have arrived.
+	[Galena]
+		[7] Bomrek Nokimtad, Fishery Worker withdraws from society. Taken by mood. Nem id√©ia no que isso vai dar.
+		[17] Solon Nilrovod, has given birth to a girl. Desgra√ßada...
+	[Limestone]
+		[10] A caravan from Shashdondakost has arrived.
+		[14] Um dos mercadores foi encontrado morto, n√£o sei o que o matou e os mercadores foram embora antes mesmo de terminar de descarregar.
+		[15] Os corpos dos mercadores mortos tinham bastante itens, que agora n√£o possuiam dono... Isso mesmo, n√£o possuiam.
+		[22] Parece q nosso Fishworker simplismente enloqueceu.
+	[Sandstone]
+		[1] O an√£o insano n√£o atacou nenhum outro membro da sociedade, portanto ainda n√£o foi morto a pauladas. Ele simplesmente perambula por a√≠ com sede a dias.
+		[8] Outra an√£ pariu, B√´mbul Monangal√¢th ¬¨¬¨
+	[Timber]
+		[7] Finalmente, Bomrek Nokimtad Fishery Worker foi encontrado morto por, advinha? Desidrata√ß√£o.
+		[27] Onget Vutharlimul, Bookbinder has been elected mayor.
+	[Moonstone]
+		[11] Temos um suprimento belo suprimento de ferro!
+		[21] Listast Udilendok, withdraws from society.
+		[25] Nosso querido prefeito imp√¥s restri√ß√µes em certas exporta√ß√µes...
+	[Opal]
+		[1] Litast Udilendok has begun a mysterious construiction!
+		[6] Litast Udilendok has created  Onulroder, a iron spear! E agora √© um Weaponsmith.
+	[Obisidian]
+		[6] Desisti de manter o tracking das mulheres que parem por aqui
+		[28] Maravilha!!! The Weremonitor Tuma Beru√±or has come! Vamos o que nosso squad √© capaz de fazer contra ele.
+		
+[RABELO: YEAR 252 OF THE AGE OF MYTH]
+	[Granite]
+		[1] A militare se mostrou ineficiente (?) a werebeast encontrou dois dwarfs, um pescador e um ca√ßador antes que o esquedr√£o chegasse, apenas esses dois foram capazes de derrotar a fera. E a melhor parte, NINGU√âM FOI INFECTADO PELA WEREBEAST, PORQUE OS DOIS AN√ïES QUE A ENFRENTARAM, MORREM EM COMBATE!!!
+		[2] Um fantasma agora vive dentro de nossa fortaleza, talvez algu√©m deva fazer um sepulcro para ele...
+		[3] O corpo da besta foi arrastado para o stockpile de refuse, tudo bem ent√£o...
+		[9] Uma caravana √©lfica veio nos visitar, ser√° que dessa vez aceitar√£o j√≥ias em trocas de animais ex√≥ticos?
+		[15] Os elvos j√° terminaram de descarregar, pelo amor de Armok, tente comprar alguns animais...
